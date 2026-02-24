@@ -11,7 +11,7 @@
 
 ## Projects
 
-- 🎓 **[canvas-cli](https://github.com/jpnarchi/canvas-cli)** - Canvas LMS CLI for Tec de Monterrey — full SAML SSO + TOTP, zero browser needed. Built to use Canvas from [OpenClaw](https://openclaw.ai)
+- 🎓 **[canvas-cli-itesm](https://github.com/jpnarchi/canvas-cli-itesm)** - Canvas LMS CLI for Tec de Monterrey — full SAML SSO + TOTP, zero browser needed. Built to use Canvas from [OpenClaw](https://openclaw.ai)
 - 🌐 **[canvas-cli](https://github.com/jpnarchi/canvas-cli)** - Universal Canvas LMS CLI — works with any Canvas instance via API token auth
 
 ## Connect
@@ -20,5 +20,6 @@
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpnarchi)
 
 ---
+
 
 
