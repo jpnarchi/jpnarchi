@@ -1,6 +1,6 @@
 # Hi, I'm Juan Pablo 👋
 
-📍 **Mexico** | 🎓 **Student at Tecnologico de Monterrey** | 💻 **I love coding**
+📍 **Mexico** | 🎓 **Tecnologico de Monterrey** | 💻 **I love coding**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
