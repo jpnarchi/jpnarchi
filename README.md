@@ -9,6 +9,9 @@
 
 > 21 years old, building tools I wish existed. From AI-powered platforms to CLI tools — if it solves a real problem, I'll build it.
 
+## Studio
+- 🚀 **[Astra](https://astrawebdevelopers.com)** — AI-native studio building web platforms, applications, and agents on the frontier stack (Claude, GPT-5, Next.js, MCP). Strategy, design, and engineering under one roof — from AI strategy and brand sites with embedded copilots to full-stack SaaS with agentic workflows. MX / SF / Remote.
+
 ## Products
 - 🎤 **[I Love Presentations](https://ilovepresentations.io)** — AI-powered presentation generator. Describe your topic, get professional slides in minutes. Features AI image generation, drag-and-drop editing, custom branding, and real-time collaboration. Export to PDF or PowerPoint.
 - 🏥 **[Kidni](https://kidni.app)** — AI-powered clinic management platform for independent healthcare professionals. Manage patients, appointments, digital clinical records, and prescriptions — all in one place. Built for psychologists, nutritionists, physiotherapists, dentists, and more across Latin America.
@@ -22,6 +25,4 @@
 
 ## Connect
 [![Twitter](https://img.shields.io/badge/-@jpnarchi__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jpnarchi_)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpnarchi)
-
----
+[!
