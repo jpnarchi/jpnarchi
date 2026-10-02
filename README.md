@@ -13,6 +13,7 @@
 - 🚀 **[Astra](https://astrawebdevelopers.com)** — AI-native studio building web platforms, applications, and agents on the frontier stack (Claude, GPT-5, Next.js, MCP). Strategy, design, and engineering under one roof — from AI strategy and brand sites with embedded copilots to full-stack SaaS with agentic workflows. MX / SF / Remote.
 
 ## Products
+- 👓 **[Nerd.lat](https://nerd.lat)** — 300k users in 3 months, 10k transactions, first project of my life.
 - 🎤 **[I Love Presentations](https://ilovepresentations.io)** — AI-powered presentation generator. Describe your topic, get professional slides in minutes. Features AI image generation, drag-and-drop editing, custom branding, and real-time collaboration. Export to PDF or PowerPoint.
 - 🏥 **[Kidni](https://kidni.app)** — AI-powered clinic management platform for independent healthcare professionals. Manage patients, appointments, digital clinical records, and prescriptions — all in one place. Built for psychologists, nutritionists, physiotherapists, dentists, and more across Latin America.
 - 📚 **[Estudia](https://estudia.lat)** — AI study assistant for students in Latin America. Generates personalized practice exams, flashcards, and study guides. Features AI tutor personas, document analysis, and an integrated chat assistant to make studying faster and more effective.
